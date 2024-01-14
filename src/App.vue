@@ -5,15 +5,21 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="@/assets/logo.png" width="300" height="300" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Space Fusion Inc." />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
+        <nav></nav>
+        <RouterLink to="/goalofcollaboration">Goal of Collaboration</RouterLink>
+        <nav></nav>
+        <RouterLink to="/Solution">Solution</RouterLink>
+        <nav></nav>
         <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/test">Test</RouterLink>
+        <nav></nav>
+        <RouterLink to="/relevance">Relevance</RouterLink>
       </nav>
     </div>
   </header>
