@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.png" width="300" height="300" />
+    <img alt="Vue logo" class="logo" src="@/assets/logo.png" width="500" height="400" />
 
     <div class="wrapper">
       <HelloWorld msg="Space Fusion Inc." />
@@ -30,7 +30,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <style scoped>
 header {
   line-height: 1.5;
-  max-height: 100vh;
+  max-height: 50vh;
 }
 
 .logo {
