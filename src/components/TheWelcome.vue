@@ -46,7 +46,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
   <WelcomeItem>
     <template #icon>
-      <CommunityIcon />
+      <DocumentationIcon />
     </template>
     <template #heading>Product</template>
       Describes the Space Fusion's product
