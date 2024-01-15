@@ -14,7 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Goal of Collaboration</template>
 
-      Illustrates and describes the company's goals and objectives.
+      Illustrates and describes Space Fusion's goals and objectives.
 
   </WelcomeItem>
 
@@ -23,7 +23,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <ToolingIcon />
     </template>
     <template #heading>Solution</template>
-      Describes the company's solutions to its goals of collaboration
+      Describes the Space Fusion's solutions to its goals of collaboration
     <br />
   </WelcomeItem>
 
@@ -33,7 +33,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>About</template>
 
-      The company's about page about the founder
+      The Space Fusion's about page about the founder
   </WelcomeItem>
 
   <WelcomeItem>
@@ -41,7 +41,16 @@ import SupportIcon from './icons/IconSupport.vue'
       <CommunityIcon />
     </template>
     <template #heading>Relevance</template>
-      Describes the company's relevance and importance to the community
+      Describes the Space Fusion's relevance and importance to the community
   </WelcomeItem>
+
+  <WelcomeItem>
+    <template #icon>
+      <CommunityIcon />
+    </template>
+    <template #heading>Product</template>
+      Describes the Space Fusion's product
+  </WelcomeItem>
+
 
 </template>

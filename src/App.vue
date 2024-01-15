@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.png" width="500" height="400" />
+    <img alt="Space Fusion Inc." class="logo" src="@/assets/logo.png" width="400" height="200" />
 
     <div class="wrapper">
       <HelloWorld msg="Space Fusion Inc." />
@@ -20,6 +20,8 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/about">About</RouterLink>
         <nav></nav>
         <RouterLink to="/relevance">Relevance</RouterLink>
+        <nav></nav>
+        <RouterLink to="/product">Product</RouterLink>
       </nav>
     </div>
   </header>

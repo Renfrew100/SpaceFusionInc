@@ -1,6 +1,6 @@
 <template>
-    <div class="relevance">
-      <h1>Working with NASA as a small business partner</h1>
+  <div class="relevance">
+    <h1>Working with NASA as a small business partner</h1>
         <li>Space fusion is an NGO that will work closely with NASA as a small business partner</li>
 
         <h1>Eligiblity</h1>
@@ -13,16 +13,20 @@
         <h1>Previous Experience with NASA (NSPIRIES)</h1>
         <li>Submitted a proposal to NASA (D.5 USRC research program) as advised by Madison Feehan (CEO and co-founder of Space Copy, NASA, and NSRESS employee)</li>
         <h1>Challenges:</h1>
-          <li>Unsuccessful because of organization's unresponsiveness</li>
-    </div>
-  </template>
-  
-  <style>
-  @media (min-width: 1024px) {
-    .about {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-    }
+          <li>Unsuccessful because of organization's unresponsiveness</li>  </div>
+</template>
+
+<style>
+@media (min-width: 1024px) {
+  .logo {
+    display: block;
+    margin: 0 auto 2rem;
   }
-  </style>
+
+  .about {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+}
+</style>
