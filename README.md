@@ -1,4 +1,4 @@
-[Space Fusion Inc.](https://spacefusioninc-3ff97f804c73.herokuapp.com/). 
+<h1>[Space Fusion Inc.](https://spacefusioninc-3ff97f804c73.herokuapp.com/)</h1>
 
 This template should help get you started developing with Vue 3 in Vite.
 
