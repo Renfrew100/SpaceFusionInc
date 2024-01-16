@@ -1,7 +1,5 @@
 # [Space Fusion Inc.](https://spacefusioninc-3ff97f804c73.herokuapp.com/)
 
-This template should help get you started developing with Vue 3 in Vite.
-
 ![image](https://github.com/Renfrew100/SpaceFusionInc/assets/37605427/1aa4c7e0-fcec-4312-8ac0-1027de78ab5a)
 
 ![image](https://github.com/Renfrew100/SpaceFusionInc/assets/37605427/aeed094e-200a-4194-9375-3c22fa72d043)
